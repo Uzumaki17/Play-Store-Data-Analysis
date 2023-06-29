@@ -1,5 +1,7 @@
 # Play-Store-Data-Analysis
 
+This project focuses on the analysis of Play Store applications to provide insights and recommendations for optimizing app launches. The analysis explores various parameters such as app categories, ratings, installs, pricing, user sentiments, app sizes, and update frequencies.
+
 The code in this repository performs the following tasks:
 
   - Imports the data set and cleans it.
